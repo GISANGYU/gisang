@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f88cf01.css",
-    "main.js": "/static/js/main.3f3d78f0.js",
-    "static/js/787.917857b7.chunk.js": "/static/js/787.917857b7.chunk.js",
-    "static/media/10_up.jpg": "/static/media/10_up.069cfc29ba1a9349e2d8.jpg",
-    "static/media/character_head.jpg": "/static/media/character_head.e6bc3147528f51b0a695.jpg",
-    "static/media/renderman.jpg": "/static/media/renderman.9a6a9e9fa4c8ccee933b.jpg",
-    "static/media/io.jpg": "/static/media/io.43b451e278612401ed64.jpg",
-    "index.html": "/index.html",
-    "main.9f88cf01.css.map": "/static/css/main.9f88cf01.css.map",
-    "main.3f3d78f0.js.map": "/static/js/main.3f3d78f0.js.map",
-    "787.917857b7.chunk.js.map": "/static/js/787.917857b7.chunk.js.map"
+    "main.css": "/gisang/static/css/main.dfec471d.css",
+    "main.js": "/gisang/static/js/main.bbd9e4e2.js",
+    "static/js/787.917857b7.chunk.js": "/gisang/static/js/787.917857b7.chunk.js",
+    "static/media/10_up.jpg": "/gisang/static/media/10_up.069cfc29ba1a9349e2d8.jpg",
+    "static/media/character_head.jpg": "/gisang/static/media/character_head.e6bc3147528f51b0a695.jpg",
+    "static/media/renderman.jpg": "/gisang/static/media/renderman.9a6a9e9fa4c8ccee933b.jpg",
+    "static/media/io.jpg": "/gisang/static/media/io.43b451e278612401ed64.jpg",
+    "index.html": "/gisang/index.html",
+    "main.dfec471d.css.map": "/gisang/static/css/main.dfec471d.css.map",
+    "main.bbd9e4e2.js.map": "/gisang/static/js/main.bbd9e4e2.js.map",
+    "787.917857b7.chunk.js.map": "/gisang/static/js/787.917857b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f88cf01.css",
-    "static/js/main.3f3d78f0.js"
+    "static/css/main.dfec471d.css",
+    "static/js/main.bbd9e4e2.js"
   ]
 }
